@@ -1,161 +1,56 @@
-# **Node JS Rest-API**
+# ```KAYZOKUN12-Api```
+<p align="center">
+<a href="https://github.com/KAYZOKUN12/followers"><img title="Followers" src="https://img.shields.io/github/followers/KAYZOKUN12?color=red&style=flat-square"></a>
+<a href="https://github.com/KAYZOKUN12/api-restbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/KAYZOKUN12/api-restbot?color=blue&style=flat-square"></a>
+<a href="https://github.com/KAYZOKUN12/api-restbot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KAYZOKUN12/api-restbot?color=red&style=flat-square"></a>
+<a href="https://github.com/KAYZOKUN12/api-restbot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/KAYZOKUN12/api-restbot?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKAYZOKUN12%2FRest-api-alphabot&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/KAYZOKUN12/Rest-api-alphabot/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+    </p>
 
-<img src="https://telegra.ph/file/f3e0160a6ab7d2ee5b1f6.png" width="500">
+-------
+<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm KAYZOKUN12 😇 </h1>
+<p align="center">
+  <img src="https://i.top4top.io/p_24979mcv40.jpeg" /></>
+</p>
 
-Simple Rest-API With Login System, Built using MongoDB, Express.js, and Node.js
+- 👼 My name is KAYZO 
+- 🗣️ I am 16 years old 
+- 🔭 I am not programmer
 
-Demo App : https://nodejs-restapi-1.saipulanuar.repl.co/
+## ```Connect with me```
+<p align="center">
+  <a href="https://instagram.com/xynnnnm_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
+  <a href="https://wa.me/6281545537615"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://t.me/KAYZOKUN12"><img src="https://img.shields.io/badge/Telegram-%230088cc.svg?&style=for-the-badge&logo=telegram&logoColor=white" /> <br>
+  <a href="https://github.com/KAYZOKUN12"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
+  <a href="https://youtube.com/channel/UCtyfrzgHAcBEhpnh8u-yWNg"><img src="https://img.shields.io/youtube/channel/subscribers/UCtyfrzgHAcBEhpnh8u-yWNg?style=social" /> <br>
+  <a href="https://komarev.com/ghpvc/?username=KAYZOKUN12&color=blue&style=flat-square&label=Profile+Dilihat"><img src="https://komarev.com/ghpvc/?username=KAYZOKUN12&color=blue&style=flat-square&label=Profile+Dilihat" />
+  </a>
+</p>
 
-Rest-Api : https://saipulanuar.ga/
+## ```Whatsapp``` 
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/message/KSKLASQBFBF2O1) 
+[![GROUP OFFICIAL](https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn) 
+---------
 
-# Installation
+## ```How to install```
 
-Requirements
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [VS Code](https://code.visualstudio.com/download) or Any Text Editor
+[`DI YOUTUBE BANYAK`]()<br>
 
-## Cloning this repo
-```cmd
-> git clone https://github.com/saipulanuar/restapi-nodejs.git
-> cd restapi-nodejs
-```
-Use `code .` to open file in VS Code
-```cmd
-> code .
-```
+<p align="center">
+  <a href="#"><img src="https://telegra.ph/file/4b5ee1804ac6ac935e091.jpg" />
+</p>
 
-## Editing the file
-Edit the required value in folder `lib` file `settings.js`.
 
-```js
-module.exports = {
-    port: '5000',
-    limitCount: 0,
-    recaptcha_key_1: '',
-    recaptcha_key_2: '',
-    // ex Mongodb Atlas : mongodb+srv:/xxx
-    dbURI: ''
-};
-```
+## ```coffee ☕```
 
-`port`: PORT localhost.
+- [`SAWERIA`](https://saweria.co/KAYZOKUN12)
 
-`recaptcha_key_1`: reCaptcha Key.
+## ```Thanks To```
 
-`recaptcha_key_2`: reCaptcha Key.
 
-`dbURI`: Connection String MongoDb. 
-
-## How to Get recaptcha_key
-
-Contact Me ([WhatsApp](https://api.whatsapp.com/send/?phone=6288279268363&text&app_absent=0)) How to get Recaptcha Key
-
-## How to Get Mongodb URI
-1. Sign In [Mongodb](https://www.mongodb.com/)
-2. Create a Database.
-<img src="https://i.postimg.cc/R0D16X3C/1.png" width="300">
-
-3. Create Free Cluster.
-4. Choose Cloud Provider & Region, Create Cluster.
-5. Select `Connect`.
-6. Add a Connection IP Address.
-<img src="https://i.postimg.cc/gk1H2MZY/5-1.png" width="500">
-
-7. Create a Database User
-<img src="https://i.postimg.cc/T1zCLGPc/5-2.png" width="500">
-
-8. Connect Your Application
-9. Change `<password>` with Your Password Database User `step 7`
-<img src="https://i.postimg.cc/6pW4wgW2/db.png" width="500">
-10. Copy and Paste in `settings.js`
-
-Contact Me ([WhatsApp](https://api.whatsapp.com/send/?phone=6288279268363&text&app_absent=0)) if You Have Problem with mongodb
-
-## Installing the dependencies
-```cmd
-> npm install
-```
-
-## Running App
-```cmd
-> npm start
-```
-
-Then Browse http://localhost:5000 . You will see the Homepage.
-
-<img src="https://telegra.ph/file/144eeb67f766244ad0c14.png" width="500">
-
-# Features
-
-|     API              |  EndPoint       |  Query           |
-| :--------------:     | :------------:  | :------------:   |
-| Youtube MP3          |  /ytmp3?url=    |  url & apikey    |
-| Youtube MP4          |  /ytmp4?url=    |  url & apikey    |
-| Youtube Play         |  /ytplay?query= |  query & apikey  |
-| Random Quotes        |  /quotes        |  apikey          |
-| Random Fakta         |  /fakta         |  apikey          |
-| Random Kata Bijak    |  /bijak         |  apikey          |
-| Random Kata Motivasi |  /motivasi      |  apikey          |
-| Random Ptl           |  /ptl           |  apikey          |
-| Cak Lontong          |  /caklontong    |  apikey          |
-
-If you want to unlock Premium Feature, please contact me ([WhatsApp](https://api.whatsapp.com/send/?phone=6288279268363&text&app_absent=0))
-
-|     Premium               |  Availability  |
-| :--------------:          | :------------: |
-| Premium User              |   ✔️           |
-| Expired Premium User      |   ✔️           |
-| Added Premium Apikey      |   ✔️           |
-| Delete Premium Apikey     |   ✔️           |
-| Limit Apikey              |   ✔️           |
-| Custom Limit Apikey       |   ✔️           |
-| Custom Apikey             |   ✔️           |
-| Reset Manual All Limit    |   ✔️           |
-| Reset One Limit Apikey    |   ✔️           |
-| Photooxy                  |   ✔️           |
-| Request (Total, Today)    |   ✔️           |
-| Visitor, Total User       |   ✔️           |
-| Pricing Section           |   ✔️           |
-
-# Deploy Heroku
-
-Go to [Heroku](https://heroku.com) and Login
-
-Create New App ( App Name For Example : abcd-api)
-
-<img src="https://i.postimg.cc/Z5T8Btw2/newapp.png" width="300">
-
-Install [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
-
-Open `CMD` and Login Heroku
-
-```cmd
-> heroku login
-```
-
-Initialize a git repository in a new or existing directory
-
-```cmd
-> cd restapi-nodejs
-> git init
-```
-
-Remote Your App, Use `heroku git:remote -a app-name`
-
-```cmd
-> heroku git:remote -a abcd-api
-```
-
-Commit your code to the repository and deploy it to Heroku using Git.
-
-```cmd
-> git add .
-> git commit -am "make it better"
-> git push heroku master
-```
-
-Log Success
-
-<img src="https://i.postimg.cc/j5bzy0NP/deploy.png" width="300">
-
+- [`KAD Team`]()
+- [`KAYZOKUN12`]()
